@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wackar-Afzal
 - 👀 I’m interested in MERN Development
-- 🌱 I’m currently learning ...MERN Development
+- 🌱 I’m currently learning ...MERN Stack Development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ... Email me at wackar.afzal@gmail.com
 
