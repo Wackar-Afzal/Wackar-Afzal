@@ -19,7 +19,7 @@ Hello! I'm Wackar Afzal, a MERN stack developer with a passion for building web 
 If you're interested in collaborating on a project or have any inquiries, feel free to reach out to me.
 
 - Email: wackar@example.com
-- LinkedIn: [Wackar Afzal](https://www.linkedin.com/in/wackarafzal)
+- LinkedIn: [Wackar Afzal](https://www.linkedin.com/in/wackar-afzal/)
 - GitHub: [Wackar-Afzal](https://github.com/Wackar-Afzal)
 
 I look forward to connecting with you and discussing how I can contribute to your development needs.
