@@ -5,9 +5,12 @@ Hello! I'm Wackar Afzal, a MERN stack developer with a passion for building web 
 
 ## Skills
 - JavaScript (ES6+)
+- TypeScript
 - React.js
 - Node.js
 - Express.js
+- NestJs
+- NextJs
 - MongoDB
 - HTML5
 - CSS3
